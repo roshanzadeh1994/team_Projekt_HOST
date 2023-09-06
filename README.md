@@ -3,18 +3,11 @@ XML-Manilulation with windows Form C#
 Schritt-für-Schritt-Anleitung zum Extrahieren einer ZIP-Datei:
 
 Beginnen Sie damit, die gewünschte ZIP-Datei herunterzuladen.
+Klick auf grüne Button(Code) und download as zip file
 
-Nachdem der Download abgeschlossen ist, haben Sie nun eine ZIP-Datei(ChangeXmlinputByWindowsForm) auf Ihrem Computer.
+Nachdem der Download abgeschlossen ist, haben Sie nun wieder eine ZIP-Datei(ChangeXmlinputByWindowsForm) auf Ihrem Computer.
 
 Als nächstes müssen wir diese ZIP-Datei extrahieren, um auf ihren Inhalt zugreifen zu können.
-
-Doppelklicken Sie auf die heruntergeladene ZIP-Datei. Dies öffnet das ZIP-Archiv und zeigt Ihnen den Inhalt.
-
-Um die Dateien zu extrahieren, können Sie entweder die Option "Alle extrahieren" verwenden oder die gewünschten Dateien und Ordner auswählen und dann "Extrahieren" auswählen.
-
-Wählen Sie den Speicherort aus, an dem Sie die extrahierten Dateien speichern möchten.
-
-Klicken Sie auf "Extrahieren" oder "OK", um den Vorgang abzuschließen.
 
 Jetzt haben Sie erfolgreich die ZIP-Datei extrahiert und können auf deren Inhalt zugreifen.
 
