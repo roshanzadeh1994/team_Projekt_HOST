@@ -5,7 +5,7 @@ Schritt-für-Schritt-Anleitung zum Extrahieren einer ZIP-Datei:
 Beginnen Sie damit, die gewünschte ZIP-Datei herunterzuladen.
 Klick auf grüne Button(Code) und download as zip file
 
-Nachdem der Download abgeschlossen ist, haben Sie nun wieder eine ZIP-Datei(ChangeXmlinputByWindowsForm) auf Ihrem Computer.
+Nachdem der Download abgeschlossen ist, haben Sie nun wieder eine ZIP-Datei(zipfile_Sourcecode&App.zip) auf Ihrem Computer.
 
 Als nächstes müssen wir diese ZIP-Datei extrahieren, um auf ihren Inhalt zugreifen zu können.
 
